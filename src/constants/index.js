@@ -24,7 +24,7 @@ import {
   linkedIn,
   github,
 } from "../assets";
-import aptihealthWeb from '../assets/projects/aptihealthWeb.PNG';
+import aptihealthWeb from '../assets/projects/aptihealthWeb.png';
 import aptihealthApp from "../assets/projects/aptihealthApp.png";
 import zealWeb from "../assets/projects/zealWeb.png";
 import zealApp from "../assets/projects/zealApp.png";
