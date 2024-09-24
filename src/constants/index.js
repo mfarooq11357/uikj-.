@@ -15,27 +15,27 @@ import {
   nickelfox,
   skillrisers,
   proximus,
-  // aptihealthWeb,
-  // aptihealthApp,
-  // zealWeb,
-  // zealApp,
-  // rollWeb,
-  // rollApp,
+  aptihealthWeb,
+  aptihealthApp,
+  zealWeb,
+  zealApp,
+  rollWeb,
+  rollApp,
   linkedIn,
   github,
 } from "../assets";
-// import aptihealthWeb from '../assets/projects/aptihealthWeb.PNG';
-// import aptihealthApp from "../assets/projects/aptihealthApp.png";
-// import zealWeb from "../assets/projects/zealWeb.png";
-// import zealApp from "../assets/projects/zealApp.png";
-// import rollWeb from "../assets/projects/rollWeb.png";
+import aptihealthWeb from '../assets/projects/aptihealthWeb.PNG';
+import aptihealthApp from "../assets/projects/aptihealthApp.png";
+import zealWeb from "../assets/projects/zealWeb.png";
+import zealApp from "../assets/projects/zealApp.png";
+import rollWeb from "../assets/projects/rollWeb.png";
 // import rollApp from "../assets/projects/rollApp.png";
-const aptihealthWeb = "https://i.ibb.co/qdZMJZ6/aptihealth-Web.png";
-const aptihealthApp = "https://i.ibb.co/HpTgr5P/aptihealth-App.png";
-const zealWeb = "https://i.ibb.co/nCjtysq/zealWeb.png";
-const zealApp = "https://i.ibb.co/jMrDbD0/Capture.png";
-const rollWeb = "https://i.ibb.co/FH5m9Tv/rollWeb.png";
-const rollApp = "https://i.ibb.co/sjbzyFZ/rollApp.png";
+// const aptihealthWeb = "https://i.ibb.co/qdZMJZ6/aptihealth-Web.png";
+// const aptihealthApp = "https://i.ibb.co/HpTgr5P/aptihealth-App.png";
+// const zealWeb = "https://i.ibb.co/nCjtysq/zealWeb.png";
+// const zealApp = "https://i.ibb.co/jMrDbD0/Capture.png";
+// const rollWeb = "https://i.ibb.co/FH5m9Tv/rollWeb.png";
+// const rollApp = "https://i.ibb.co/sjbzyFZ/rollApp.png";
 const navigationPaths = {
   home: "/",
   about: "about",
